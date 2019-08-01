@@ -9,7 +9,7 @@
 
 
         tags = {
-            Name = "Dev"
+            Name = "${var.Env}"
             Dept = "IT"
             Group = "April"
             Created_by = "Frank"
